@@ -1,2 +1,2 @@
 # Assignments-of-Python-Essentials
-Assignemnts from Batch - 06
+Assignments from Batch - 06

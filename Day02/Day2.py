@@ -15,18 +15,18 @@ operation = operand1 + operand2
 print(f"Addition Value = {operation} \n") #Escape Sequences
 #Subtraction
 operation = operand1 - operand2
-print(f"Subtracted Value = {operation}")
+print(f"Subtracted Value = {operation} \n ")
 #Division
 operation = operand1//operand2 #Returns Integer
-print(f"Divided Value = {operation}")
+print(f"Divided Value = {operation} \n ")
 #Reminder
 operation = operand1 % operand2
-print(f'Reminder\'s = {operation}') #Back Slash
+print(f'Reminder\'s = {operation} \n ') #Back Slash
 #Multipliaction
 operation = operand1 * operand2
-print(f"Multiplied Value = {operation}")
-operation = operand1 ** operand2
-print(f"Output = {operation} ")
+print(f"Multiplied Value = {operation} \n ")
+operation = operand2 ** operand1
+print(f"Output = {operation} \n")
 
 # Triple Quotes
 print (""" Learning From

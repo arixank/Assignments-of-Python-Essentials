@@ -25,6 +25,8 @@ print(f'Reminder\'s = {operation}') #Back Slash
 #Multipliaction
 operation = operand1 * operand2
 print(f"Multiplied Value = {operation}")
+operation = operand1 ** operand2
+print(f"Output = {operation} ")
 
 # Triple Quotes
 print (""" Learning From
